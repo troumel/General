@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\AFDEMPExc2\AFDEMPExc2\obj\Debug\AFDEMPExc2.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AFDEMPExc2\AFDEMPExc2\bin\Debug\AFDEMPExc2.exe.config
+C:\Users\LENOVO\source\repos\AFDEMPExc2\AFDEMPExc2\bin\Debug\AFDEMPExc2.exe
+C:\Users\LENOVO\source\repos\AFDEMPExc2\AFDEMPExc2\bin\Debug\AFDEMPExc2.pdb
+C:\Users\LENOVO\source\repos\AFDEMPExc2\AFDEMPExc2\obj\Debug\AFDEMPExc2.exe
+C:\Users\LENOVO\source\repos\AFDEMPExc2\AFDEMPExc2\obj\Debug\AFDEMPExc2.pdb
