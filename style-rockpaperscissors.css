@@ -1,0 +1,22 @@
+@import
+url(https://fonts.googleapis.com/icon?family=Material+Icons);
+
+.container {
+    text-align: center;
+    padding: 8px;
+}
+
+#reset-score {
+    background-color: ghostwhite;
+    padding         : 6px;
+    border-radius   : 4px;
+}
+
+#empty-space {
+    height: 60px;
+}
+
+#rock, #paper, #scissors {
+    cursor: grab;
+    padding: 20px;
+}
