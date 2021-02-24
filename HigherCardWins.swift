@@ -64,6 +64,8 @@ struct ContentView: View {
             
         }// end of ZStack
     }
+    // functions
+    
     func returnCard(randomCardNumber: Int) -> String {
         if randomCardPlayer == 0 || randomCardCPU == 0 {
             return "back"
