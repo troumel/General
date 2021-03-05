@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  Places
-//
-//  Created by macuser on 5/3/21.
-//
+
 
 import UIKit
 import MapKit
