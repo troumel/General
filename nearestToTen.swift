@@ -1,8 +1,8 @@
 import UIKit
 
 """
-    Write a program that accepts two integers and test which value is nearest
-    to value 10. Return 0 if both integers have the same distance form 10.
+    Write a program that accepts two integers and tests which value is nearest
+    to value 10. Return 0 if both integers have the same distance from 10.
 """
 
 func ex15(a: Int, b: Int) -> Int {
