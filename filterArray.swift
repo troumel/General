@@ -1,6 +1,6 @@
 
 """
-   Find all string in an array that start with a certain letter
+   Find all strings in an array, that start with a certain letter.
 """
 
 import Foundation 
