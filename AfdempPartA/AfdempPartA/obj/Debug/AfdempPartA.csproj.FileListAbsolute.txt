@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\AfdempPartA\AfdempPartA\bin\Debug\AfdempPartA.exe.config
+C:\Users\LENOVO\source\repos\AfdempPartA\AfdempPartA\bin\Debug\AfdempPartA.exe
+C:\Users\LENOVO\source\repos\AfdempPartA\AfdempPartA\bin\Debug\AfdempPartA.pdb
+C:\Users\LENOVO\source\repos\AfdempPartA\AfdempPartA\obj\Debug\AfdempPartA.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AfdempPartA\AfdempPartA\obj\Debug\AfdempPartA.exe
+C:\Users\LENOVO\source\repos\AfdempPartA\AfdempPartA\obj\Debug\AfdempPartA.pdb
